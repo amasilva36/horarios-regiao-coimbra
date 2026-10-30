@@ -1,0 +1,25 @@
+{
+  "gerado": "2026-10-29",
+  "avisos": [
+    {
+      "id": "558-desvio-2026-10-30",
+      "titulo": "Linha 558: desvio em Foz de Arouce",
+      "texto": "Devido a obras na Rua da Junta de Freguesia, a linha 558 não para em \"Foz de Arouce (Junta de Freguesia)\" entre os dias 30/10 e 03/11. Usar a paragem \"Foz de Arouce (A.C.M.)\" como alternativa.",
+      "gravidade": "aviso",
+      "operador": "SIT",
+      "linha": "558",
+      "inicio": "2026-10-30",
+      "fim": "2026-11-03"
+    },
+    {
+      "id": "smtuc-geral-2026-11",
+      "titulo": "SMTUC: horários sujeitos a atualização",
+      "texto": "Os horários dos SMTUC publicados nesta aplicação são válidos até 12 de novembro de 2026. A partir dessa data pode haver alterações ainda não refletidas aqui.",
+      "gravidade": "info",
+      "operador": "SMTUC",
+      "linha": null,
+      "inicio": "2026-10-29",
+      "fim": "2026-11-12"
+    }
+  ]
+}
